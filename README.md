@@ -6,18 +6,6 @@
 ### <div align="center">I'm Valer, currently studying Data Science at the University of Stuttgart 🧑‍💻 whilst also being a Teaching Assistant for the course Data Structures and Algorithms 🖥️</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
-
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
 <br/>  
 
 
