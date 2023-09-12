@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Valer, currently studying Data Science at the University of Stuttgart 🧑‍💻 whilst also being a Teaching Assistant for the course Data Structures and Algorithms 🖥️</div>  
+### <div align="center">I'm Valer, currently studying Data Science at the University of Stuttgart 🧑‍💻</div>  
   
 
 <br/>  
